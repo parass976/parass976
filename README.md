@@ -24,9 +24,7 @@ Web Development (HTML, CSS , etc.)
 Cybersecurity & Ethical Hacking 
 
 
-Why I Want to Join the Developers' Community
 
-I want to be a part of a vibrant community of developers where I can:
 
 Collaborate on exciting projects and learn from others.
 
